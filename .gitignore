@@ -1,0 +1,9 @@
+# Archivos de datos
+Sample - Superstore.csv
+Superstore_clean.csv
+.vscode/
+
+# Archivos de Python / entorno
+__pycache__/
+*.pyc
+.env
